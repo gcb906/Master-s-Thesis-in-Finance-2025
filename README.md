@@ -3,6 +3,6 @@ This repository contains the materials for my Master’s thesis submitted to the
 
 The repository includes two primary files:
 
-- **NameX**: This Jupyter notebook estimates the risk aversion parameter \( \gamma \) using empirical market data. It applies various utility functions to analyze the impact of risk preferences on portfolio strategies.
+- **NameX**: This Jupyter notebook estimates the risk aversion parameter using empirical market data.
 
-- **NameY**: This Jupyter notebook simulates six portfolio optimization models under different market conditions. It provides numerical results for each model, focusing on optimal portfolio strategies and their associated risk-return profiles.
+- **NameY**: This Jupyter notebook simulates six portfolio optimization models. It provides numerical results for each model, focusing on optimal portfolio strategies.
