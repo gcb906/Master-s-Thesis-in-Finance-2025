@@ -3,6 +3,6 @@ This repository contains the materials for my Master’s thesis submitted to the
 
 The repository includes two primary files:
 
-- **NameX**: This Jupyter notebook estimates the risk aversion parameter using empirical market data.
+- **Chapter 8 - Estimating risk aversion**: This notebook estimates the risk aversion parameter using empirical market data from Yahoo Finance.
 
-- **NameY**: This Jupyter notebook simulates six portfolio optimization models. It provides numerical results for each model, focusing on optimal portfolio strategies.
+- **NameY**: This notebook simulates six portfolio optimization models.
