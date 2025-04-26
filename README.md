@@ -5,4 +5,4 @@ The repository includes two primary files:
 
 - **Chapter 8 - Estimating risk aversion**: This notebook estimates the risk aversion parameter using empirical market data from Yahoo Finance.
 
-- **NameY**: This notebook simulates six portfolio optimization models.
+- **Chapter 9 - Numerical results**: This notebook simulates results for six portfolio optimization models.
