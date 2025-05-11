@@ -3,6 +3,6 @@ This repository contains the materials for my Master’s thesis submitted to the
 
 The repository includes two primary files:
 
-- **Chapter 8 - Estimating risk aversion**: This notebook estimates the risk aversion parameter using empirical market data from Yahoo Finance.
+- **Chapter 8 - Estimating risk aversion**: This notebook estimates the CRRA risk aversion parameter using SPY return data from Yahoo Finance, based on a Markov-switching framework and a Taylor-expanded expected utility function.
 
 - **Chapter 9 - Numerical results**: This notebook simulates results for six portfolio optimization models.
