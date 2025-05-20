@@ -3,7 +3,7 @@ This repository contains the materials for my Master’s thesis submitted to the
 
 The repository contents are:
 
-- **Master’s Thesis in Finance (PDF):**  
+- **Master’s Thesis in Finance:**  
   The final submitted version of the thesis.
 
 - **Chapter 8 – Estimating Risk Aversion:**  
